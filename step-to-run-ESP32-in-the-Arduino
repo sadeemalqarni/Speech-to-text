@@ -1,0 +1,12 @@
+step 1: Download Arduino IDE
+step 2: Open Arduino IDE
+step 3: from the menu bar click on "file -> preferences"
+step 4: copy the URL in "Additional board URL" and then click "OK"
+step 5: now click "tools -> board ->board manager"
+step 6: from board manager search for "ESP32" and install it 
+step 7: You should be able to select your board in the boards menu. select what is appropriate for your ESP32.
+step 8: Connect your ESP32 to the computer by the USB cable.
+step 9: Click on "Tool -> ESP32 Arduino and then choose WEMOS D1 MINI ESP32 controller
+step 10: Click on "Tools" and Go to port COM3, then choose COM3.
+step 11: Upload your code to the ESP32 module
+step 12:  Control Your LED In The Serial Monitor.
